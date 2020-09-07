@@ -1,5 +1,5 @@
 # Human-Activity-Recognition-using-Smartphones-Dataset
-The requirement for the course 'Big Data Parallel Programming' is completing an individual project based on a big dataset in a cloud platform.
+The requirement for the course 'Big Data Parallel Programming' is completing an individual project based on a big dataset in a cloud platform using PySpark framework.
 I will use Human Activity Recognition using Smartphones dataset avaliable in the UCI Machine Learning Repository.
 The database was built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. It has 10299 records and 561 attributes. 
 My goal is building classifiers that can accurately identify the activities being performed by individuals using their smartphone sensor data.
